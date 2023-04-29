@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CustomerInfoManagementApplication {
 
 	public static void main(String[] args) {
-		System.out.println("inside main method");
+		System.out.println("main method");
 		SpringApplication.run(CustomerInfoManagementApplication.class, args);
 	}
 
